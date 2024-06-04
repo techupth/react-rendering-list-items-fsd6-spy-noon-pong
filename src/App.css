@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #e0eaff;
+}
+.movie-list-section {
+  width: 400px;
+  height: 250px;
+}
+.moviecard {
+  width: 200px;
+}
+/* .image {
+  width: 100px;
+  height: 100px;
+} */
